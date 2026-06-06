@@ -1,0 +1,196 @@
+[
+  {
+    "id": "7dfbac7a-cc2a-4dc0-a1ad-bf182611b4cc",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "file_uploaded",
+    "metadata": {
+      "fileId": "bb18b4eb-67cc-449d-8e87-4ae8d26f0748",
+      "name": "README.md"
+    },
+    "createdAt": "2026-06-02T17:32:16.199Z"
+  },
+  {
+    "id": "2a55e349-90ed-4dbf-98c6-7bb51df94d39",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "file_uploaded",
+    "metadata": {
+      "fileId": "a66519d8-45ef-41b3-8b56-d54bc8f44354",
+      "name": "Book1.xlsx"
+    },
+    "createdAt": "2026-06-02T17:30:57.279Z"
+  },
+  {
+    "id": "0ffa37cd-d14a-406d-8c03-c4a7258081bb",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "section_archived",
+    "metadata": {
+      "sectionId": "0b345b2e-54a6-4a84-8a56-f0fece02f548"
+    },
+    "createdAt": "2026-06-02T17:22:58.436Z"
+  },
+  {
+    "id": "f977c11a-ce6b-4ac9-9282-0cc1731e4a74",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "profile_updated",
+    "metadata": {},
+    "createdAt": "2026-06-02T17:22:16.201Z"
+  },
+  {
+    "id": "ec6e00ce-5840-4f16-bc0a-b2c64acf604f",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "avatar_uploaded",
+    "metadata": {
+      "filename": "ChatGPT Image Apr 29, 2026, 11_01_26 PM (1).png"
+    },
+    "createdAt": "2026-06-02T17:22:13.877Z"
+  },
+  {
+    "id": "a262713e-ba68-47a0-af88-8d77b336f6e0",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "task_reopened",
+    "metadata": {
+      "taskId": "b3826663-562d-42a5-b4fc-9a0c70487f66"
+    },
+    "createdAt": "2026-06-02T17:20:13.486Z"
+  },
+  {
+    "id": "bf5d8d7d-e1f9-4e61-beca-18dd5cc3355f",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "task_completed",
+    "metadata": {
+      "taskId": "b3826663-562d-42a5-b4fc-9a0c70487f66"
+    },
+    "createdAt": "2026-06-02T17:20:11.645Z"
+  },
+  {
+    "id": "e6c77108-0935-4484-a9e1-1fa0b279cbe7",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "task_created",
+    "metadata": {
+      "taskId": "b3826663-562d-42a5-b4fc-9a0c70487f66"
+    },
+    "createdAt": "2026-06-02T17:20:07.433Z"
+  },
+  {
+    "id": "b92dda0c-349e-41a3-8c3d-18e8ef1e276c",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "task_reopened",
+    "metadata": {
+      "taskId": "bcf55c35-d5dc-490d-aa5b-6fe567bfb542"
+    },
+    "createdAt": "2026-06-02T17:19:12.447Z"
+  },
+  {
+    "id": "76cafafc-cc48-422f-b7c3-b920ca52dda2",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "task_completed",
+    "metadata": {
+      "taskId": "bcf55c35-d5dc-490d-aa5b-6fe567bfb542"
+    },
+    "createdAt": "2026-06-02T17:19:10.994Z"
+  },
+  {
+    "id": "b4a7ed55-af50-41db-bb76-7bc00777cf44",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "task_created",
+    "metadata": {
+      "taskId": "bcf55c35-d5dc-490d-aa5b-6fe567bfb542"
+    },
+    "createdAt": "2026-06-02T17:19:06.886Z"
+  },
+  {
+    "id": "7f751a0d-f366-434c-863a-fbe9d97a6880",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "note_updated",
+    "metadata": {
+      "noteId": "39907bad-b299-4a24-8992-9ba23d4e5108"
+    },
+    "createdAt": "2026-06-02T17:18:03.998Z"
+  },
+  {
+    "id": "7df97d19-ad00-40de-8476-8302650b5ffa",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "note_created",
+    "metadata": {
+      "noteId": "39907bad-b299-4a24-8992-9ba23d4e5108"
+    },
+    "createdAt": "2026-06-02T17:17:23.421Z"
+  },
+  {
+    "id": "6b510ab9-102d-46b3-8a89-9989842d773b",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "section_created",
+    "metadata": {
+      "sectionId": "0b345b2e-54a6-4a84-8a56-f0fece02f548"
+    },
+    "createdAt": "2026-06-02T17:16:31.189Z"
+  },
+  {
+    "id": "2b1bba21-2b13-44e3-8789-70ae1fdfba2e",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "note_created",
+    "metadata": {
+      "noteId": "8dae83f3-f3ff-45dc-a2b0-99d1a1cad39e"
+    },
+    "createdAt": "2026-06-02T17:15:48.492Z"
+  },
+  {
+    "id": "38be1180-995d-4f21-9b41-2afd9ac67e5c",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "profile_updated",
+    "metadata": {},
+    "createdAt": "2026-06-02T17:12:57.009Z"
+  },
+  {
+    "id": "1b2ce447-dc7e-4443-b806-0d7de7de15d6",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "avatar_uploaded",
+    "metadata": {
+      "filename": "WhatsApp Image 2026-04-28 at 11.26.29 PM (1).jpeg"
+    },
+    "createdAt": "2026-06-02T17:10:33.999Z"
+  },
+  {
+    "id": "eb435520-b4eb-47c3-8c52-64fe28f4d16b",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "profile_updated",
+    "metadata": {},
+    "createdAt": "2026-06-02T17:10:17.669Z"
+  },
+  {
+    "id": "3571d11a-6d0d-4836-846b-1b57b1461194",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "login",
+    "metadata": {
+      "method": "password"
+    },
+    "createdAt": "2026-06-02T17:09:55.717Z"
+  },
+  {
+    "id": "ef1ee22e-8ba7-4338-93f0-a71cb105aa0f",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "login",
+    "metadata": {
+      "method": "password"
+    },
+    "createdAt": "2026-06-02T16:02:19.482Z"
+  },
+  {
+    "id": "d536b45f-8710-4033-bcf3-c9b6423e9bb6",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "login",
+    "metadata": {
+      "method": "signup"
+    },
+    "createdAt": "2026-06-02T15:56:51.250Z"
+  },
+  {
+    "id": "cd403e0c-bf25-4bbd-b426-58f7b02373d9",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "type": "signup",
+    "metadata": {
+      "role": "user"
+    },
+    "createdAt": "2026-06-02T15:56:51.240Z"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "user": "aryan"
+  },
+  {
+    "id": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "fullName": "aryan",
+    "email": "aryan@demo.com",
+    "role": "user",
+    "status": "active",
+    "passwordHash": "120000:6f62b4446e2ccef03ccc114188ba39f3:b7a4f48e6cf59d185cf55488b485a3f4373e20462468be6f34d54d87cc34e9bedeb4c15632949fc1af21fc5ade07cbbc1de881324586a8643d48e6fbb1212c73",
+    "createdAt": "2026-06-02T15:56:51.143Z",
+    "updatedAt": "2026-06-02T17:22:16.192Z",
+    "lastLoginAt": "2026-06-02T17:09:55.696Z"
+  }
+]

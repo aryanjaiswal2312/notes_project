@@ -1,0 +1,32 @@
+[
+  {
+    "id": "8325c354-5794-444f-b91a-8036f5514899",
+    "userId": "345e135d-1839-42cb-80a8-1d232270cad6",
+    "fullName": "aryan",
+    "email": "aryan@demo.com",
+    "phone": "8815246656",
+    "address": "CG 18 ,Dewas ,MP, india",
+    "bio": "my name is aryan",
+    "avatarUrl": "/uploads/1780420933803-a308cd2a-1bc4-43d8-9f14-286ddc84e123-ChatGPT_Image_Apr_29_2026_11_01_26_PM_1_.png",
+    "socialLinks": [
+      "@insta"
+    ],
+    "skills": [
+      "C++",
+      "java"
+    ],
+    "strengths": [],
+    "expertise": [],
+    "interests": [],
+    "knowledgeAreas": [],
+    "customSections": [
+      {
+        "id": "beedddbd-2a0c-4265-920d-949e300bb651",
+        "title": "custom section testing 1",
+        "body": "testing done 1"
+      }
+    ],
+    "createdAt": "2026-06-02T15:56:51.143Z",
+    "updatedAt": "2026-06-02T17:22:16.192Z"
+  }
+]
